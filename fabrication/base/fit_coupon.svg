@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96.0mm" height="80mm" viewBox="0 0 96.0 80">
+<rect width="96.0" height="80" fill="white"/>
+<polygon points="2.000,2.000 94.000,2.000 94.000,78.000 2.000,78.000" fill="none" stroke="#FF0000" stroke-width="0.1"/>
+<polygon points="10.000,12.000 14.600,12.000 14.600,19.000 10.000,19.000" fill="none" stroke="#FF0000" stroke-width="0.1"/>
+<polygon points="20.000,12.000 24.600,12.000 24.600,19.200 20.000,19.200" fill="none" stroke="#FF0000" stroke-width="0.1"/>
+<polygon points="30.000,12.000 34.600,12.000 34.600,19.400 30.000,19.400" fill="none" stroke="#FF0000" stroke-width="0.1"/>
+<polygon points="40.000,12.000 44.600,12.000 44.600,19.600 40.000,19.600" fill="none" stroke="#FF0000" stroke-width="0.1"/>
+<polygon points="50.000,12.000 54.600,12.000 54.600,19.800 50.000,19.800" fill="none" stroke="#FF0000" stroke-width="0.1"/>
+<polygon points="60.000,12.000 64.600,12.000 64.600,20.000 60.000,20.000" fill="none" stroke="#FF0000" stroke-width="0.1"/>
+<polygon points="10.000,35.000 14.600,35.000 14.600,46.000 10.000,46.000" fill="none" stroke="#FF0000" stroke-width="0.1"/>
+<polygon points="20.000,35.000 24.600,35.000 24.600,46.200 20.000,46.200" fill="none" stroke="#FF0000" stroke-width="0.1"/>
+<polygon points="30.000,35.000 34.600,35.000 34.600,46.400 30.000,46.400" fill="none" stroke="#FF0000" stroke-width="0.1"/>
+<polygon points="40.000,35.000 44.600,35.000 44.600,46.600 40.000,46.600" fill="none" stroke="#FF0000" stroke-width="0.1"/>
+<polygon points="50.000,35.000 54.600,35.000 54.600,46.800 50.000,46.800" fill="none" stroke="#FF0000" stroke-width="0.1"/>
+<polygon points="60.000,35.000 64.600,35.000 64.600,47.000 60.000,47.000" fill="none" stroke="#FF0000" stroke-width="0.1"/>
+<polygon points="10.000,63.000 14.000,63.000 14.000,71.400 10.000,71.400" fill="none" stroke="#FF0000" stroke-width="0.1"/>
+<polygon points="30.000,63.000 34.100,63.000 34.100,71.400 30.000,71.400" fill="none" stroke="#FF0000" stroke-width="0.1"/>
+<polygon points="50.000,63.000 54.200,63.000 54.200,71.400 50.000,71.400" fill="none" stroke="#FF0000" stroke-width="0.1"/>
+<polygon points="70.000,63.000 74.300,63.000 74.300,71.400 70.000,71.400" fill="none" stroke="#FF0000" stroke-width="0.1"/>
+<text x="4.00" y="7.00" font-family="Arial" font-size="2.6" fill="#0000FF">A column length</text>
+<text x="9.40" y="23.60" font-family="Arial" font-size="2.0" fill="#0000FF">7.0</text>
+<text x="19.40" y="23.60" font-family="Arial" font-size="2.0" fill="#0000FF">7.2</text>
+<text x="29.40" y="23.60" font-family="Arial" font-size="2.0" fill="#0000FF">7.4</text>
+<text x="39.40" y="23.60" font-family="Arial" font-size="2.0" fill="#0000FF">7.6</text>
+<text x="49.40" y="23.60" font-family="Arial" font-size="2.0" fill="#0000FF">7.8</text>
+<text x="59.40" y="23.60" font-family="Arial" font-size="2.0" fill="#0000FF">8.0</text>
+<text x="4.00" y="31.00" font-family="Arial" font-size="2.6" fill="#0000FF">B gusset length</text>
+<text x="8.80" y="50.60" font-family="Arial" font-size="2.0" fill="#0000FF">11.0</text>
+<text x="18.80" y="50.60" font-family="Arial" font-size="2.0" fill="#0000FF">11.2</text>
+<text x="28.80" y="50.60" font-family="Arial" font-size="2.0" fill="#0000FF">11.4</text>
+<text x="38.80" y="50.60" font-family="Arial" font-size="2.0" fill="#0000FF">11.6</text>
+<text x="48.80" y="50.60" font-family="Arial" font-size="2.0" fill="#0000FF">11.8</text>
+<text x="58.80" y="50.60" font-family="Arial" font-size="2.0" fill="#0000FF">12.0</text>
+<text x="4.00" y="59.50" font-family="Arial" font-size="2.6" fill="#0000FF">C width</text>
+<text x="9.40" y="74.80" font-family="Arial" font-size="2.0" fill="#0000FF">4.0</text>
+<text x="29.40" y="74.80" font-family="Arial" font-size="2.0" fill="#0000FF">4.1</text>
+<text x="49.40" y="74.80" font-family="Arial" font-size="2.0" fill="#0000FF">4.2</text>
+<text x="69.40" y="74.80" font-family="Arial" font-size="2.0" fill="#0000FF">4.3</text>
+</svg>

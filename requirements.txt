@@ -1,0 +1,10 @@
+# Raspberry Pi (vision + closed loop)
+numpy
+opencv-contrib-python>=4.7     # ArUco module (cv2.aruco)
+pyserial                       # stage.py <-> Arduino
+# picamera2 is installed with Raspberry Pi OS (sudo apt install python3-picamera2)
+
+# PC-side generators (targets and laser-cut files)
+reportlab
+ezdxf
+cairosvg
